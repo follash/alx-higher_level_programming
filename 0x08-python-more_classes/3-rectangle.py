@@ -9,11 +9,11 @@ public area and perimeter methods, and allows printing #'s
 class Rectangle:
     """
     Defines class rectangle with private attribute width and height
-    
+
     Args:
         width (int): width
         height (int): height
-        
+
     Functions:
         __init__(self, width, height)
         width(self)
